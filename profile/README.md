@@ -8,7 +8,7 @@ We're a B2B company dedicated to providing innovative and reliable solutions for
 
 🧙 **Our Products**
 
-* [UptimeInsight](https://uptimeinsight.com): @uptimeinsight - WIP
+* UptimeInsight (@uptimeinsight) : https://uptimeinsight.com - WIP
 
 
 🌈 **Contribution Guidelines**
